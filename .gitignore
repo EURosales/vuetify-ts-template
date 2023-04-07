@@ -6,6 +6,15 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
+
+# local env files
+.env.local
+.env.*.local
+
+# Add Dockerfile
+Dockerfile
+
+# Add .env
 .env
 
 node_modules
