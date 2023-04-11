@@ -1,6 +1,10 @@
-# vue-three-ts
+# vue-3-ts
 
 This template should help get you started developing with Vue 3 in Vite.
+
+## Objective
+
+Ths repository is meant to be used as an example template for the future Admision 2024 project. The tech stack is cosiderably the ideal in order to keep project technologies up to date en 2023.
 
 ## Recommended IDE Setup
 
